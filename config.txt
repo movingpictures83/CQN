@@ -1,0 +1,6 @@
+Prefix pipelines/CQN/
+Plugin CQNPlot inputfile parameters/parameters.cqnplot.txt outputfile cqnplot
+Plugin RPKMPlot inputfile parameters/parameters.rpkmplot.txt outputfile rpkmplot
+Plugin GCMAPlot inputfile parameters/parameters.gcmaplot.txt outputfile gcmaplot.pdf
+Plugin DGEList inputfile parameters/parameters.dgelist.txt outputfile d
+Plugin GLMCommonDisp inputfile parameters/parameters.glmcommon.txt outputfile none
